@@ -4,13 +4,13 @@ repo: ex_status_page # The name of this repository
 
 sites:
   - name: Exchange User Portal 
-    url: https://vercel-fe-six.vercel.app/
+    url: https://bwex-user-prod.vercel.app/
   - name: Exchange User Portal QA
-    url: https://vercel-fe-six.vercel.app/
+    url: https://bwex-user-qa.vercel.app/
   - name: Exchange Admin Portal
-    url: https://vercel-fe-six.vercel.app/
+    url: https://bwex-user-prod.vercel.app/
   - name: Exchange Admin Portal QA
-    url: https://vercel-fe-six.vercel.app/
+    url: https://bwex-user-qa.vercel.app/
   - name: Exchange API
     url: https://exchange1.bitwage.com/
   - name: Exchange API QA
