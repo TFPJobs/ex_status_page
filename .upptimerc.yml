@@ -12,9 +12,9 @@ sites:
   - name: Exchange Admin Portal QA
     url: https://vercel-fe-six.vercel.app/
   - name: Exchange API
-    url: https://exchange1.bitwage.com
+    url: https://exchange1.bitwage.com/
   - name: Exchange API QA
-    url: https://exchange2.bitwage.com
+    url: https://exchange2.bitwage.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
