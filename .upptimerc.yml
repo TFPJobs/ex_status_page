@@ -7,17 +7,17 @@ sites:
     url: https://vercel-fe-six.vercel.app/
   - name: Exchange Admin Portal
     url: https://vercel-fe-six.vercel.app/
-  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  
+  #cname: demo.upptime.js.org
   baseUrl: /ex_status_page
-  name: Exchange Status Page
-  introTitle: "Exchange Status Pager"
-  introMessage: Status Page Using Upptime
- navbar:
+  name: Ex Status Page
+  introTitle: "Ex Status Page"
+  introMessage: This monitors using upptime
+  
+  navbar:
     - title: Status
       href: /
     - title: GitHub
