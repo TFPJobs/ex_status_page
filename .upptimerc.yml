@@ -8,9 +8,9 @@ sites:
   - name: Exchange User Portal QA
     url: https://bwex-user-qa.vercel.app/
   - name: Exchange Admin Portal
-    url: https://bwex-user-prod.vercel.app/
+    url: https://bwex-admin-prod.vercel.app/
   - name: Exchange Admin Portal QA
-    url: https://bwex-user-qa.vercel.app/
+    url: https://bwex-admin-qa.vercel.app/
   - name: Exchange API
     url: https://exchange1.bitwage.com/
   - name: Exchange API QA
